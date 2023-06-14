@@ -1,0 +1,28 @@
+.nav_container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo{
+    height: 59px;
+    width: 63px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.nav ul{
+    display: flex;
+    gap:1rem;
+    padding: 1rem;
+}
+
+.nav li {
+    padding: 0.5rem 1rem;
+    list-style: none;
+    text-transform: uppercase;
+}

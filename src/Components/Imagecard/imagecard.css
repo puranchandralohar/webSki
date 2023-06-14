@@ -1,0 +1,40 @@
+.imagecard{
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:1rem;
+}
+
+
+.card{
+    position: relative;
+}
+
+.card img{
+    height: 400px;
+    width: 360px;
+}
+
+.card_details{
+    padding:0.5rem;
+    width: 100%;
+    position: absolute;
+    bottom: 20px;
+    color:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card_details button{
+    color:#fff;
+    padding: 0.5rem;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+

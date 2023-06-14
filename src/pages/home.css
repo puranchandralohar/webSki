@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+}
+
+.section{
+    margin: 2rem 4rem;
+}
+
+.labels h4{
+    color: #8DC640;
+
+}

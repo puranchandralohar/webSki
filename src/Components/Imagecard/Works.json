@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Jumbo Loans",
+        "src":"src/Components/Imagecard/images/image10.png"
+        
+    },
+    {
+        "id": 2,
+        "name": "USDA Loans",
+        "src":"src/Components/Imagecard/images/image12.png"
+    },
+    {
+        "id": 3,
+        "name": "Conventional Loans",
+        "src":"src/Components/Imagecard/images/image13.png"
+    },
+    {
+        "id": 4,
+        "name": "FHA Loans",
+        "src":"src/Components/Imagecard/images/image14.png"
+    },
+    {
+        "id": 5,
+        "name": "VA Loans",
+        "src":"src/Components/Imagecard/images/image16.png"
+    },
+    {
+        "id": 6,
+        "name": "Down Payment Assistence Loans",
+        "src":"src/Components/Imagecard/images/image17.png"
+    }
+   ]
